@@ -1,5 +1,11 @@
-h1{
-    color:tomato;
-    text-decoration: underline;
+#inicio{
     text-align: center;
+    color:rebeccapurple;
 }
+ul{
+    background-color: springgreen;
+}
+#segundo{
+    background-color: skyblue;
+}
+
