@@ -1,0 +1,11 @@
+inicio - index.html
+mecánicos (mecanicos/mecanicos.html)
+    Javiera Prieto (jprieto.html)
+    Pedro Tapia (ptapia.html)
+categorías (categorias/categorias.html)
+    frenos.html
+    motor.html
+    mantenimiento.html
+imágenes (/img)
+contacto.html
+login.html

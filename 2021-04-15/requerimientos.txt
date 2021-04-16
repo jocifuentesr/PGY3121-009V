@@ -1,0 +1,22 @@
+- Menú superior con el logo del taller mecánico
+    - Logo en la parte izquierda
+    - Barra de navegación 
+- En la página principal un carrusel de imágenes con los últimos trabajos
+    - Las imágenes deben tener el título de cada trabajo
+- Se debe construir una página de plantilla para cada trabajo con: 
+    - Diagnóstico
+    - El mecánico
+    - Fecha
+    - Materiales usados
+    - Galería de fotos (opcional)
+    - La ficha tiene al menos una foto
+- En la página principal se debe crear una barra de búsqueda. También
+    - Buscar por mecánicos
+    - Categoría atenciones
+    - Palabras clave 
+- Página con la cantidad de mantenciones que han sido ingresados por un usuario (mecánico) - Ficha
+    - Nombre mecánico
+    - Pequeña biografía 
+    - Listado de arreglos
+- Página de contacto
+- Página de autenticación de usuarios
