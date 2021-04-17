@@ -1,8 +1,8 @@
 - ~~Menú superior con el logo del taller mecánico~~
     - ~~Logo en la parte izquierda~~
     - ~~Barra de navegación~~ 
-- En la página principal un carrusel de imágenes con los últimos trabajos
-    - Las imágenes deben tener el título de cada trabajo
+- ~~En la página principal un carrusel de imágenes con los últimos trabajos~~ 
+    - ~~Las imágenes deben tener el título de cada trabajo~~
 - Se debe construir una página de plantilla para cada trabajo con: 
     - Diagnóstico
     - El mecánico
