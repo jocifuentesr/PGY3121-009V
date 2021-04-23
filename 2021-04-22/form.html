@@ -4,12 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Mi primer formulario</title>
 </head>
 <body>
     <h1>Hola Mundo</h1>
-    <form action="procesar.php" method="post">
-
+    <form action="procesar.php" method="post" name="contacto">
+        <span>Nombre: </span><input type="text" name="edad" placeholder="Ingrese su edad" value="">
+        <br>
+        <span>Edad: </span><input type="number" name="edad">
+        <br>
+        <span>Correo: </span><input type="text" name="email" placeholder="Ingrese su correo" value="">
+        <br>
+        <span>RUT: </span><input type="text" name="rut" placeholder="Rut sin puntos y con guion" value="">
+        <br>
+        <span>Tus comentarios</span><br>
+        <textarea name="comentarios" cols="30" rows="10"></textarea>
+        <br>
+        <input type="submit" value="Enviar">
     </form>
 </body>
 </html>
